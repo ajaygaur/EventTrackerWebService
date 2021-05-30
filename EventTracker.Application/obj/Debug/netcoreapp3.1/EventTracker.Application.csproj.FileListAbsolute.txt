@@ -1,0 +1,12 @@
+C:\Users\admin\source\EventTracker\EventTracker.Application\obj\Debug\netcoreapp3.1\EventTracker.Application.csprojAssemblyReference.cache
+C:\Users\admin\source\EventTracker\EventTracker.Application\obj\Debug\netcoreapp3.1\EventTracker.Application.AssemblyInfoInputs.cache
+C:\Users\admin\source\EventTracker\EventTracker.Application\obj\Debug\netcoreapp3.1\EventTracker.Application.AssemblyInfo.cs
+C:\Users\admin\source\EventTracker\EventTracker.Application\obj\Debug\netcoreapp3.1\EventTracker.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\EventTracker\EventTracker.Application\bin\Debug\netcoreapp3.1\EventTracker.Application.deps.json
+C:\Users\admin\source\EventTracker\EventTracker.Application\bin\Debug\netcoreapp3.1\EventTracker.Application.dll
+C:\Users\admin\source\EventTracker\EventTracker.Application\bin\Debug\netcoreapp3.1\EventTracker.Application.pdb
+C:\Users\admin\source\EventTracker\EventTracker.Application\bin\Debug\netcoreapp3.1\EventTracker.Domain.dll
+C:\Users\admin\source\EventTracker\EventTracker.Application\bin\Debug\netcoreapp3.1\EventTracker.Domain.pdb
+C:\Users\admin\source\EventTracker\EventTracker.Application\obj\Debug\netcoreapp3.1\EventTracker.Application.csproj.CopyComplete
+C:\Users\admin\source\EventTracker\EventTracker.Application\obj\Debug\netcoreapp3.1\EventTracker.Application.dll
+C:\Users\admin\source\EventTracker\EventTracker.Application\obj\Debug\netcoreapp3.1\EventTracker.Application.pdb

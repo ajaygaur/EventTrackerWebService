@@ -1,0 +1,14 @@
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\bin\Debug\netcoreapp3.1\EventTracker.Application.dll
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\obj\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.csprojAssemblyReference.cache
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\obj\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.AssemblyInfoInputs.cache
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\obj\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.AssemblyInfo.cs
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\obj\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\bin\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.deps.json
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\bin\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.dll
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\bin\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.pdb
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\bin\Debug\netcoreapp3.1\EventTracker.Domain.dll
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\bin\Debug\netcoreapp3.1\EventTracker.Application.pdb
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\bin\Debug\netcoreapp3.1\EventTracker.Domain.pdb
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\obj\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.csproj.CopyComplete
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\obj\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.dll
+C:\Users\admin\source\EventTracker\EventTracker.Infrastructure.Shared\obj\Debug\netcoreapp3.1\EventTracker.Infrastructure.Shared.pdb
